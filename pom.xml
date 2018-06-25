@@ -110,7 +110,6 @@
     <module>kie-soup-project-datamodel</module>
     <module>kie-soup-maven-utils</module>
     <module>kie-soup-dataset</module>
-    <module>kie-soup-compiler</module>
   </modules>
 
   <build>
